@@ -1,5 +1,6 @@
 # junsenkim.github.io
-![image](https://github.com/user-attachments/assets/9d64ee38-8ad3-4e57-9f07-cefafbfbcd75)
+![image](https://github.com/user-attachments/assets/9e0bd56b-5aa8-4cfb-ac3c-10b2ceb7ba57)
+
 
 
 Research Experiences
