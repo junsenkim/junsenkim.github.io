@@ -1,4 +1,7 @@
 # junsenkim.github.io
+![image](https://github.com/user-attachments/assets/9d64ee38-8ad3-4e57-9f07-cefafbfbcd75)
+
+
 Research Experiences
 Research Engineer at VS Devision, Seoul, South Korea, LG Electronics Inc., Korea (Jul. 2022 ~ Present) / Preprocessed and refined data for developing multimodal user interaction in autonomous vehicle infot
 Experience in Interpretation and Protocol at EDM Festivals (UMF, WaterBomb, 5tardium, EDC, etc.) at Mixmag, Korea (Feb. 2018 ~ Feb. 2023)
