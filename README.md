@@ -5,6 +5,7 @@
 ## Education
 
 Yonsei University Electrical and Electronic Engineering Bachelor's degree
+
 Image Representation Learning for Medical Imaging Motion Correction
 * Graduate School of Electrical and Electronic Engineering @MI Lab (Advisor: DongHyun Kim)
 
