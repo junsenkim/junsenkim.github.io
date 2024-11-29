@@ -34,12 +34,13 @@ Excellence Award at Digital Healthcare Bootcamp, College of Medicine, Yonsei Uni
 Participated in research on visualizing and analyzing character input patterns using computer vision, supervised by the Korea Institute of Information Security and Cryptology, Computer Vision Lab, Chung-Ang University, Korea (Feb. 2022 ~ Dec. 2022)
 [[Slides]](https://docs.google.com/presentation/d/1pcMfwIX3j1owk_HicaZoHUHtt0t4IqT0gGKL_99Zr2U/edit?usp=sharing)
 
-Awards and Honors
+## Awards and Honors
+
 생성형 AI 를 활용한 SW Documentation 자동화 과제 선정 및 수상 / 소스코드기반 LLM내 Few Shot을 통한 SW 디자인 및 다이어그램 자동 생성툴 개발, LG AI Hackathon, Korea (Oct. 2024)
 [[Slides]](https://docs.google.com/presentation/d/1CSxdnqk11ui5JvEnv-Swx7L_2H1gnKa8QaSF8-EaZ9g/edit?usp=sharing)
 
 LGSDC Ignite 발표세션 사내 개발문화 향상을 위한 sw 전문가 기술세미나 개최, LGSDC, Korea (Sep. 2024)
-[[video]](url.kr/ybmlm6)
+[[video]](https://www.youtube.com/watch?v=5ZweJ2ZNXeE&t=516s)
 
 LG전자 사내벤처 헬스케어 부문 과제 선정, Bluepoint Partners, Korea (Oct. 2023)
 
