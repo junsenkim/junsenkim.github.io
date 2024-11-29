@@ -1,6 +1,13 @@
 
 <img src="https://github.com/user-attachments/assets/9e0bd56b-5aa8-4cfb-ac3c-10b2ceb7ba57" alt="junhyung" width="200">
 
+
+## Education
+
+Yonsei University Electrical and Electronic Engineering Bachelor's degree
+Image Representation Learning for Medical Imaging Motion Correction
+* Graduate School of Electrical and Electronic Engineering @MI Lab (Advisor: DongHyun Kim)
+
 ## Research Experiences
 
 Research Engineer at VS Devision, Seoul, South Korea, LG Electronics Inc., Korea (Jul. 2022 ~ Present) / Preprocessed and refined data for developing multimodal user interaction in autonomous vehicle infot
