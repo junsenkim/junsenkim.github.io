@@ -1,5 +1,5 @@
-# junsenkim.github.io
-![image](https://github.com/user-attachments/assets/9e0bd56b-5aa8-4cfb-ac3c-10b2ceb7ba57)
+
+<img src="https://github.com/user-attachments/assets/9e0bd56b-5aa8-4cfb-ac3c-10b2ceb7ba57" alt="junhyung" width="500">
 
 
 
