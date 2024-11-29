@@ -29,3 +29,4 @@ Awards and Honors
 LGSDC Ignite 발표세션 사내 개발문화 향상을 위한 sw 전문가 기술세미나 개최 (url.kr/ybmlm6), LGSDC, Korea (Sep. 2024)
 
 LG전자 사내벤처 헬스케어 부문 과제 선정, Bluepoint Partners, Korea (Oct. 2023)
+
