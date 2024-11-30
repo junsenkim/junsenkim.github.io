@@ -11,6 +11,7 @@ Image Representation Learning for Medical Imaging Motion Correction @Yonsei EEE 
 ## Research Experiences
 
 Research Engineer at VS Devision, Seoul, South Korea, LG Electronics Inc., Korea (Jul. 2022 ~ Present) / Preprocessed and refined data for developing multimodal user interaction in autonomous vehicle infot
+
 Experience in Interpretation and Protocol at EDM Festivals (UMF, WaterBomb, 5tardium, EDC, etc.) at Mixmag, Korea (Feb. 2018 ~ Feb. 2023)
 
 ## Skills and Techniques
@@ -43,11 +44,15 @@ Participated in research on visualizing and analyzing character input patterns u
 
 ## Awards and Honors
 
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/b1a5d3eb-15b4-46c7-9f2d-38845ee61882">
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/7301772b-e7e8-4ff3-98d1-eb997ff1647c">
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/afd4afb4-cfe4-43c4-aad4-fc3d34c0186b">
+
 생성형 AI 를 활용한 SW Documentation 자동화 과제 선정 및 수상 / 소스코드기반 LLM내 Few Shot을 통한 SW 디자인 및 다이어그램 자동 생성툴 개발, LG AI Hackathon, Korea (Oct. 2024)
 [[Slides]](https://docs.google.com/presentation/d/1CSxdnqk11ui5JvEnv-Swx7L_2H1gnKa8QaSF8-EaZ9g/edit?usp=sharing)
 
 LGSDC Ignite 발표세션 사내 개발문화 향상을 위한 sw 전문가 기술세미나 개최, LGSDC, Korea (Sep. 2024)
-[[video]](https://www.youtube.com/watch?v=5ZweJ2ZNXeE&t=516s)
+[[Video]](https://www.youtube.com/watch?v=5ZweJ2ZNXeE&t=516s)
 
 LG전자 사내벤처 헬스케어 부문 과제 선정, Bluepoint Partners, Korea (Oct. 2023)
 
