@@ -32,6 +32,7 @@ LGE x SNU Industry-Academia Research and Education Dispatch for Data Scientist T
 
 Developed a multimodal learning-based driver anomaly detection system for in-vehicle infotainment (차량 인포테인먼트내 멀티모달 학습 기반 운전자 이상탐지 인식 시스템 개발), LG AI Hackarton, Korea (Sep. 2023 ~ Nov. 2023)
 [[Poster]](https://docs.google.com/presentation/d/1Tn_IxBw_0K9AyMDqmLXG6q6gpc55OrTy03-MLEM-IKI/mobilepresent?usp=sharing)
+[[Demo Video]](https://drive.google.com/file/d/1A6usGvQyZBSKy9sYcGz86GyE19weofnX/view?usp=sharing)
 
 AIoT Lab, Graduate School of Data Science, Seoul National University & Paperwork Baseline, Google Research CSR Workshop, Korea/ SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video (Jun. 2023 ~ Sep. 2023)
 [[Slides]](https://docs.google.com/presentation/d/1lBMjlY1C0PuB2HpK8_lS93kvZH426oItpa5iWKKmfHg/mobilepresent?usp=sharing)
