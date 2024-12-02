@@ -45,7 +45,7 @@ Participated in research on visualizing and analyzing character input patterns u
 
 ## Awards and Honors
 
-생성형 AI 를 활용한 SW Documentation 자동화 과제 선정 및 수상 / 소스코드기반 LLM내 Few Shot을 통한 SW 디자인 및 다이어그램 자동 생성툴 개발, LG AI Hackathon, Korea (Oct. 2024)
+생성형 AI 를 활용한 SW Documentation 자동화 과제 선정 및 수상 / 소스코드기반 LLM내 Few Shot을 통한 SW 디자인 및 다이어그램 자동 생성툴 개발, LG AI Hackathon, Korea (Oct. 2024) CEO Honored,
 [[Slides]](https://docs.google.com/presentation/d/1CSxdnqk11ui5JvEnv-Swx7L_2H1gnKa8QaSF8-EaZ9g/mobilepresent?usp=sharing)
 
 LGSDC Ignite 발표세션 사내 개발문화 향상을 위한 sw 전문가 기술세미나 개최, LGSDC, Korea (Sep. 2024)
