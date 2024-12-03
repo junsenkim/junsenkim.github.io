@@ -55,5 +55,5 @@ LG전자 사내벤처 헬스케어 부문 과제 선정, Bluepoint Partners, Kor
 
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/b1a5d3eb-15b4-46c7-9f2d-38845ee61882">
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/7301772b-e7e8-4ff3-98d1-eb997ff1647c">
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/afd4afb4-cfe4-43c4-aad4-fc3d34c0186b">
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/b2525ca1-87bf-4b9d-9ada-d357ed547502">
 
