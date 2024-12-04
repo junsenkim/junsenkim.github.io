@@ -2,8 +2,8 @@
 <img src="https://github.com/user-attachments/assets/9e0bd56b-5aa8-4cfb-ac3c-10b2ceb7ba57" alt="junhyung" width="200">
 
 
- ** Easy Come Easy Go ... **
-
+  Easy Come Easy Go ... 
+  
 ## Education
 
 Yonsei University Electrical and Electronic Engineering Bachelor's degree
