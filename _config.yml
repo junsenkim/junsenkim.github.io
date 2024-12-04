@@ -1,12 +1,12 @@
-title: JunsenKim
+title: Jjun Kim
 author:
-  name: JunsenKim
+  name: Jjun Kim
   email: knj601@naver.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  난 준슨킴이야.
+  Hi, This is jjunkim.
   
 # Build settings
 
