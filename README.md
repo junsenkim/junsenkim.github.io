@@ -16,7 +16,7 @@ Experience in Interpretation and Protocol at EDM Festivals (UMF, WaterBomb, 5tar
 
 ## Skills and Techniques
 
-Pytorch, Python, C++, Linux 
+Pytorch, Python, C++, Linux, Jira, Jenkins(CI/CT) ... 
 
 ## Research Interests
 
