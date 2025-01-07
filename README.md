@@ -3,7 +3,8 @@
 
 
   Easy Come Easy Go ... 
-  
+Hi, I am a Machine Learning Engineer focused on developing a novelty model that predicts and provides hyper-personalized entertainment experiences in the cockpit based on user behavior log data. My research aims to enhance the in-vehicle stay experience in line with SDV era standards.
+
 ## Education
 
 Yonsei University Electrical and Electronic Engineering Bachelor's degree
@@ -47,7 +48,7 @@ Participated in research on visualizing and analyzing character input patterns u
 
 ## Awards and Honors
 
-생성형 AI 를 활용한 SW Documentation 자동화 과제 선정 및 수상 / 소스코드기반 LLM내 Few Shot을 통한 SW 디자인 및 다이어그램 자동 생성툴 개발, LG AI Hackathon, Korea (Oct. 2024) – Received CEO's Honor,
+생성형 AI 를 활용한 SW Documentation 자동화 과제 선정 및 CEO 수상 / 소스코드기반 LLM내 Few Shot을 통한 SW 디자인 및 다이어그램 자동 생성툴 개발; 본부 과제 선정, LG AI Hackathon, Korea (Oct. 2024) – Received CEO's Honor,
 [[Slides]](https://docs.google.com/presentation/d/1CSxdnqk11ui5JvEnv-Swx7L_2H1gnKa8QaSF8-EaZ9g/mobilepresent?usp=sharing)
 [[Read the Feature Article Here]](https://m.mk.co.kr/news/business/11187029)
 
