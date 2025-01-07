@@ -18,15 +18,6 @@ Research Engineer at VS Devision, Seoul, South Korea, LG Electronics Inc., Korea
 
 Experience in Interpretation and Protocol at EDM Festivals (UMF, WaterBomb, 5tardium, EDC, etc.) at Mixmag, Korea (Feb. 2018 ~ Feb. 2023)
 
-## Skills and Techniques
-
-Pytorch, Python, C++, Linux, Jira, Jenkins(CI/CT) ... 
-
-## Research Interests
-
-Medical Imaging
-Image Segmentation and 3D-vision
-
 ## Projects
 
 Research Proposal at College of Medicine, Yonsei University - No-Reference Image Quality Assessment for MRI using Contrastive Learning, College of Medicine, Yonsei University, Korea/ First author (Dec. 2023 ~ Present)
@@ -62,3 +53,11 @@ LG전자 사내벤처 헬스케어 부문 과제 선정, Bluepoint Partners, Kor
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/7301772b-e7e8-4ff3-98d1-eb997ff1647c">
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/b2525ca1-87bf-4b9d-9ada-d357ed547502">
 
+## Research Interests
+
+Medical Imaging
+Image Segmentation and 3D-vision
+
+## Skills and Techniques
+
+Pytorch, Python, C++, Linux, Jira, Jenkins(CI/CT) ... 
