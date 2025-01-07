@@ -3,6 +3,7 @@
 
 
   Easy Come Easy Go ... 
+  
 Hi, I am a Machine Learning Engineer focused on developing a novelty model that predicts and provides hyper-personalized entertainment experiences in the cockpit based on user behavior log data. My research aims to enhance the in-vehicle stay experience in line with SDV era standards.
 
 ## Education
