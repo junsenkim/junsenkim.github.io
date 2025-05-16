@@ -2,10 +2,6 @@
 <img src="https://github.com/user-attachments/assets/9e0bd56b-5aa8-4cfb-ac3c-10b2ceb7ba57" alt="junhyung" width="200">
 
 
-  Easy Come Easy Go ... 
-  
-Hi, I am a Machine Learning Engineer focused on developing a novelty model that predicts and provides hyper-personalized entertainment experiences in the cockpit based on user behavior log data. My research aims to enhance the in-vehicle stay experience in line with SDV era standards.
-
 ## Education
 
 Yonsei University Electrical and Electronic Engineering Bachelor's degree
@@ -20,6 +16,12 @@ Experience in Interpretation and Protocol at EDM Festivals (UMF, WaterBomb, 5tar
 
 ## Projects
 
+LGE, Korea, LGE.com Search-Recommendation-Comparison System Enhancement with KG & LLM (Sep. 2024 ~ Present)
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/cde144cc-93f3-4b95-8108-f77e9076c488" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/9bda787a-3ba9-4f00-8359-9aba4d5201b7" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/58f6d812-5efb-4179-9c05-a88715667c57" />
+
+
 Research Proposal at College of Medicine, Yonsei University - No-Reference Image Quality Assessment for MRI using Contrastive Learning, College of Medicine, Yonsei University, Korea/ First author (Dec. 2023 ~ Present)
 [[Poster]](https://docs.google.com/presentation/d/1AgeVeamdqu7mWUhWMNuBPhJbHwUOg2VQxOTb3vapWJI/mobilepresent?usp=sharing)
 
@@ -31,9 +33,6 @@ Developed a multimodal learning-based driver anomaly detection system for in-veh
 
 AIoT Lab, Graduate School of Data Science, Seoul National University & Paperwork Baseline, Google Research CSR Workshop, Korea/ SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video (Jun. 2023 ~ Sep. 2023)
 [[Slides]](https://docs.google.com/presentation/d/1lBMjlY1C0PuB2HpK8_lS93kvZH426oItpa5iWKKmfHg/mobilepresent?usp=sharing)
-
-Excellence Award at Digital Healthcare Bootcamp, College of Medicine, Yonsei University, Korea/ Developed a pneumonia diagnosis prediction model using UNET-based ensemble (Jun. 2023 ~ Jul. 2023)
-[[Slides]](https://docs.google.com/presentation/d/15pwqhaYXzqRVRvjh8tzK8o583CKzZDl-a5SHUbfZKVk/mobilepresent?usp=sharing)
 
 Participated in research on visualizing and analyzing character input patterns using computer vision, supervised by the Korea Institute of Information Security and Cryptology, Computer Vision Lab, Chung-Ang University, Korea (Feb. 2022 ~ Dec. 2022)
 [[Slides]](https://docs.google.com/presentation/d/1pcMfwIX3j1owk_HicaZoHUHtt0t4IqT0gGKL_99Zr2U/mobilepresent?usp=sharing)
@@ -49,14 +48,17 @@ LGSDC Ignite 발표세션 사내 개발문화 향상을 위한 sw 전문가 기�
 
 LG전자 사내벤처 헬스케어 부문 과제 선정, Bluepoint Partners, Korea (Oct. 2023)
 
+Excellence Award at Digital Healthcare Bootcamp, College of Medicine, Yonsei University, Korea/ Developed a pneumonia diagnosis prediction model using UNET-based ensemble (Jun. 2023 ~ Jul. 2023)
+[[Slides]](https://docs.google.com/presentation/d/15pwqhaYXzqRVRvjh8tzK8o583CKzZDl-a5SHUbfZKVk/mobilepresent?usp=sharing)
+
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/b1a5d3eb-15b4-46c7-9f2d-38845ee61882">
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/7301772b-e7e8-4ff3-98d1-eb997ff1647c">
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/b2525ca1-87bf-4b9d-9ada-d357ed547502">
 
 ## Research Interests
 
-Medical Imaging
-Image Segmentation and 3D-vision
+NLP
+Recsys
 
 ## Skills and Techniques
 
