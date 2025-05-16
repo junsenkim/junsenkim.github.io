@@ -17,9 +17,10 @@ Experience in Interpretation and Protocol at EDM Festivals (UMF, WaterBomb, 5tar
 ## Projects
 
 LGE, Korea, LGE.com Search-Recommendation-Comparison System Enhancement with KG & LLM (Sep. 2024 ~ Present)
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/cde144cc-93f3-4b95-8108-f77e9076c488" />
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/9bda787a-3ba9-4f00-8359-9aba4d5201b7" />
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/58f6d812-5efb-4179-9c05-a88715667c57" />
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/cde144cc-93f3-4b95-8108-f77e9076c488" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/9bda787a-3ba9-4f00-8359-9aba4d5201b7" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/58f6d812-5efb-4179-9c05-a88715667c57" />
 
 
 Research Proposal at College of Medicine, Yonsei University - No-Reference Image Quality Assessment for MRI using Contrastive Learning, College of Medicine, Yonsei University, Korea/ First author (Dec. 2023 ~ Present)
